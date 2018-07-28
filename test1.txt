@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5231-3F76
+
+ Directory of C:\Users\hement\Desktop\MyProjectsGit
+
+07/28/2018  03:28 PM    <DIR>          .
+07/28/2018  03:28 PM    <DIR>          ..
+07/28/2018  03:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  200,530,706,432 bytes free
